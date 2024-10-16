@@ -1,0 +1,23 @@
+
+CREATE DATABASE metabase_db;
+
+USE metabase_db;
+
+
+#table creation
+
+create table Movielens (
+    rownames varchar(255) not null,
+    movieId varchar(255) not null,
+    title varchar(255) not null,
+    year varchar(255) not null,
+    genres varchar(255) not null,
+    userId varchar(255) not null,
+    rating varchar(255) not null,
+    timestamp varchar(255) not null
+);
+
+#sample insert query
+
+INSERT INTO Movielens (rownames, movieId, title, year, genres, userId, rating, timestamp)
+VALUES ('1', '31', 'Dangerous Minds', '1995', 'Drama', '1', '2.5', '1260759144');
