@@ -72,4 +72,4 @@ Prerequisites:
 
 #Metabase analysis image
 
-![Metabase analysis image][https://github.com/Vasanth2005kk/Metabase-Connect-Mysql/blob/d8c26869419d302022393a1f8936b957a79ac90f/movielens.png]
+![Metabase analysis image](https://github.com/Vasanth2005kk/Metabase-Connect-Mysql/blob/d8c26869419d302022393a1f8936b957a79ac90f/movielens.png)
