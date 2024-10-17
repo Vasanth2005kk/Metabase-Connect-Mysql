@@ -70,4 +70,6 @@ Prerequisites:
 
 			Metabase will now try to connect to the MySQL database. If everything is set up correctly, Metabase will show a success message, and the MySQL database will be available in your list of data sources.
 
-		
+#Metabase analysis image
+
+![Metabase analysis image][movielens.png]
